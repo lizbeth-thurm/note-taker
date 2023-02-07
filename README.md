@@ -24,7 +24,7 @@
 
   ## Screenshot
 
-  ![screenshot](./Develop/public/assets/images/screenshot.jpeg)
+  ![screenshot](./public/assets/images/screenshot.jpeg)
   
   ## Questions
   GitHub Username:
