@@ -3,14 +3,12 @@
 
   ## Description
   An application that can write and save notes.
-  ![GitHub license]()
-  
-  [Link to License]()
-  
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Links](#links)
+  - [Screenshot](#screenshot)
   - [Questions](#questions)
   
   ## Installation
@@ -20,7 +18,13 @@
   Write a note title and a note on the main page after redirecting from the starting splash page.  Click the save icon to save the note.
   
   ## Links
-  None
+  [GitHub Repository](https://github.com/skip-thurm/note-taker)
+
+  [Deployed Application](https://skip-thurm.github.io/note-taker/)
+
+  ## Screenshot
+
+  ![screenshot](./Develop/public/assets/images/screenshot.jpeg)
   
   ## Questions
   GitHub Username:
