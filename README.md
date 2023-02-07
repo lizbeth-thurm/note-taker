@@ -20,7 +20,7 @@
   ## Links
   [GitHub Repository](https://github.com/skip-thurm/note-taker)
 
-  [Deployed Application](https://skip-thurm.github.io/note-taker/)
+  [Deployed Application](https://note-taker-00.herokuapp.com/)
 
   ## Screenshot
 
